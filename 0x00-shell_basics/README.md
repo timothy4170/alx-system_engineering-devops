@@ -1,2 +1,2 @@
 #!/bin/bash
-Copy HTML files
+File type
